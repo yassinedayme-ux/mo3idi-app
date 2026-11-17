@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mo3di</string>
+    <string name="title_activity_main">mo3di</string>
+    <string name="package_name">com.mo3di.app</string>
+    <string name="custom_url_scheme">com.mo3di.app</string>
+</resources>
